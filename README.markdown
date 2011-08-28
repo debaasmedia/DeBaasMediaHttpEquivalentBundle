@@ -1,5 +1,8 @@
-A Symfony bundle that adds `<meta http-equiv="header" content="value" />` tags
-to the HTML response.
+A Symfony bundle that adds the following `http-equiv` meta tags to the HTML response.
+
+```html
+<meta http-equiv="header" content="value" />
+```
 
 Installation
 ============
